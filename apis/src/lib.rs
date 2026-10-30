@@ -138,3 +138,7 @@ mod locale_tests {
         println!("missing keys across the 9 active locales: {backlog:?}");
     }
 }
+
+mod profile_catalog;
+
+mod profile_bio;

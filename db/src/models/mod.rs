@@ -63,3 +63,6 @@ pub use tournament_swiss_round::TournamentSwissRound;
 pub use tournament_user::TournamentUser;
 pub use tutorial_progress::TutorialProgress;
 pub use user::{NewUser, SoftDeleteReport, User};
+
+mod player_profile;
+pub use player_profile::PlayerProfile;

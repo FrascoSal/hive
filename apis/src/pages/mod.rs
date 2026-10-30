@@ -34,3 +34,5 @@ pub mod tournament_create;
 pub mod tournaments;
 pub mod tutorial;
 pub mod tutorial_site;
+
+mod profile_about;
