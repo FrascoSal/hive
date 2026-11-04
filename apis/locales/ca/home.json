@@ -33,7 +33,7 @@
     },
     "found_players": "Trobat:",
     "calendar": {
-        "title": "Partides",
+        "title": "Partides programades",
         "last_updated": "Última actualització: {{time}}",
         "loading_title": "S'estan carregant les properes partides...",
         "loading_message": "Espera mentre recuperem les partides programades",

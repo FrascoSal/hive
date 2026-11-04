@@ -33,7 +33,7 @@
     "online_players_other": "Игроков онлайн: {{count}}",
     "found_players": "Найдено:",
     "calendar": {
-        "title": "Матчи",
+        "title": "Запланированные партии",
         "last_updated": "Обновлено: {{time}}",
         "loading_title": "Загрузка предстоящих партий...",
         "loading_message": "Подождите, загружаем запланированные партии",

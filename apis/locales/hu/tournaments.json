@@ -258,7 +258,7 @@
         "uninvite_action": "Versenymeghívás visszavonása"
     },
     "calendar": {
-        "title": "Játszmák",
+        "title": "Ütemezett játszmák",
         "last_updated": "Legutóbbi frissítés: {{time}}",
         "loading": "Betöltés…",
         "loading_games": "Közelgő játszmák betöltése…",

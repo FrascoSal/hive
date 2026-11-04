@@ -258,7 +258,7 @@
         "uninvite_action": "Retira la invitació al torneig"
     },
     "calendar": {
-        "title": "Partides",
+        "title": "Partides programades",
         "last_updated": "Última actualització: {{time}}",
         "loading": "Carregant…",
         "loading_games": "Carregant les properes partides…",

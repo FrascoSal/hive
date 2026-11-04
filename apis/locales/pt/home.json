@@ -33,7 +33,7 @@
     },
     "create_game": "Cria um jogo",
     "calendar": {
-        "title": "Jogos",
+        "title": "Partidas agendadas",
         "last_updated": "Última atualização: {{time}}",
         "loading_title": "A carregar os próximos jogos...",
         "loading_message": "Aguarde enquanto obtemos os jogos agendados",

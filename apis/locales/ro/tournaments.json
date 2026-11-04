@@ -258,7 +258,7 @@
         "uninvite_action": "Retrage invitația la turneu"
     },
     "calendar": {
-        "title": "Partide",
+        "title": "Partide programate",
         "last_updated": "Ultima actualizare: {{time}}",
         "loading": "Se încarcă…",
         "loading_games": "Se încarcă partidele viitoare…",

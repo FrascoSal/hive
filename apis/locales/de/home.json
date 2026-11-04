@@ -33,7 +33,7 @@
         }
     },
     "calendar": {
-        "title": "Partien",
+        "title": "Geplante Partien",
         "last_updated": "Zuletzt aktualisiert: {{time}}",
         "loading_title": "Kommende Partien werden geladen...",
         "loading_message": "Bitte warten, die geplanten Partien werden abgerufen",

@@ -258,7 +258,7 @@
         "uninvite_action": "Ritira l’invito al torneo"
     },
     "calendar": {
-        "title": "Partite",
+        "title": "Partite programmate",
         "last_updated": "Ultimo aggiornamento: {{time}}",
         "loading": "Caricamento…",
         "loading_games": "Caricamento delle prossime partite…",

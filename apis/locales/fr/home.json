@@ -31,7 +31,7 @@
     "online_players_one": "{{count}} joueur en ligne",
     "online_players_other": "{{count}} joueurs en ligne",
     "calendar": {
-        "title": "Parties",
+        "title": "Parties programmées",
         "last_updated": "Dernière mise à jour : {{time}}",
         "loading_title": "Chargement des prochaines parties...",
         "loading_message": "Veuillez patienter pendant la récupération des parties programmées",

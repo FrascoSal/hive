@@ -33,7 +33,7 @@
         }
     },
     "calendar": {
-        "title": "Partide",
+        "title": "Partide programate",
         "last_updated": "Ultima actualizare: {{time}}",
         "loading_title": "Se încarcă partidele viitoare...",
         "loading_message": "Te rugăm să aștepți cât timp încărcăm partidele programate",

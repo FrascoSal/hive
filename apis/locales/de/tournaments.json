@@ -258,7 +258,7 @@
         "uninvite_action": "Turniereinladung zurückziehen"
     },
     "calendar": {
-        "title": "Partien",
+        "title": "Geplante Partien",
         "last_updated": "Zuletzt aktualisiert: {{time}}",
         "loading": "Wird geladen…",
         "loading_games": "Anstehende Partien werden geladen…",

@@ -33,7 +33,7 @@
     },
     "found_players": "Találatok:",
     "calendar": {
-        "title": "Mérkőzések",
+        "title": "Ütemezett játszmák",
         "last_updated": "Utoljára frissítve: {{time}}",
         "loading_title": "Közelgő játszmák betöltése...",
         "loading_message": "Kérjük, várj, amíg betöltjük az ütemezett játszmákat",

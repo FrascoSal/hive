@@ -33,7 +33,7 @@
     },
     "found_players": "Encontrado:",
     "calendar": {
-        "title": "Partidas",
+        "title": "Partidas programadas",
         "last_updated": "Última actualización: {{time}}",
         "loading_title": "Cargando las próximas partidas...",
         "loading_message": "Espera mientras recuperamos las partidas programadas",
